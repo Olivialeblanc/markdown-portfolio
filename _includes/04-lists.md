@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* tortilla
+* ice cream
+* mob psycho 100
+* idk
